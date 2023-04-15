@@ -1,4 +1,4 @@
-# -Drink-My-Friend-Vineyard-Application
+# "Drink My Friend" Vineyard Application
 
 Spring is also knocking on the door of the "Drink My Friend" vineyard. 
 As we all know, grapes love care and work, but most of all they love labour, which is usually rewarded with a good harvest. 
